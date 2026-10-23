@@ -1,0 +1,8 @@
+out/
+docs/
+poc/
+README.md
+LICENSE
+.git/
+.gitignore
+.dockerignore
